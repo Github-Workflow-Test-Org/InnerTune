@@ -64,7 +64,7 @@ recommend [Pano Scrobbler](https://play.google.com/store/apps/details?id=com.arn
 2. In the three dots menu at the top-right of the screen, click "Developer settings"
 3. Enable "Unknown sources"
 
-## Translating
+## Translating.
 
 If you'd like to help translate InnerTune, check out [our project in Weblate.](https://hosted.weblate.org/engage/innertune/) Weblate allows us to solve issues with translation inconsistency, edited strings, etc.
 
